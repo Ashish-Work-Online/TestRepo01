@@ -1,3 +1,4 @@
 H|ID|FirstName|LastName|DoJ|JobTitle
 R|1001|Jon|Doe|2018-08-09|Senior Software Engineer
 R|1002|Jane|Doe|2017-12-17|Senior Software Engineer
+R|1003|Alpha|Beta|2015-12-31|Software Engineer
